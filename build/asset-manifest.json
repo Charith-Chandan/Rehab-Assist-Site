@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21b9e46e.css",
+    "main.js": "/static/js/main.45b0e010.js",
+    "static/media/IMG2.jpg": "/static/media/IMG2.2d53899b3a3fbd00b4ab.jpg",
+    "static/media/doc2.jpg": "/static/media/doc2.826cefb3661f8d1d688c.jpg",
+    "static/media/docsignup.jpg": "/static/media/docsignup.78d059a0c37c6ecbf9b3.jpg",
+    "static/media/doc.mp4": "/static/media/doc.9e41da5abf700bb84def.mp4",
+    "static/media/team1.png": "/static/media/team1.368a7f436a65d834f2a0.png",
+    "static/media/about1.png": "/static/media/about1.5c277baf2729315433ea.png",
+    "static/media/walk.png": "/static/media/walk.7f3db5f020f07584f37a.png",
+    "static/media/IMG1.jpg": "/static/media/IMG1.c0be50b716d85893cca7.jpg",
+    "static/media/team2.png": "/static/media/team2.65f4e7deb14c495f9521.png",
+    "static/media/forgot.jpg": "/static/media/forgot.9459d7ccc6d2dfd87ff6.jpg",
+    "static/media/Ushadevi-Amma.png": "/static/media/Ushadevi-Amma.be671fd4480484c23eb7.png",
+    "static/media/Logo.png": "/static/media/Logo.bf03165bfcb26db3f3d2.png",
+    "static/media/team4.png": "/static/media/team4.f0c147ccdc0afcc33341.png",
+    "static/media/team3.png": "/static/media/team3.0b83d4d68e6db74f3f6b.png",
+    "static/media/IMG3.jpg": "/static/media/IMG3.e3094800350894c84eb7.jpg",
+    "static/media/doctor.png": "/static/media/doctor.5dd540c59a23b86bfd7b.png",
+    "static/media/Contact.svg": "/static/media/Contact.46309f5d9cabd6ba410813c03d337e4b.svg",
+    "static/media/Amrita.png": "/static/media/Amrita.f947166e41daa50cd762.png",
+    "static/media/instagram.ico": "/static/media/instagram.75e0546a6b5abe4c0506.ico",
+    "static/media/twitter.png": "/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/linkedin.png": "/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/mailsent.svg": "/static/media/mailsent.a589116cd3038e31e4a75a0b51c0ce56.svg",
+    "index.html": "/index.html",
+    "main.21b9e46e.css.map": "/static/css/main.21b9e46e.css.map",
+    "main.45b0e010.js.map": "/static/js/main.45b0e010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b9e46e.css",
+    "static/js/main.45b0e010.js"
+  ]
+}
